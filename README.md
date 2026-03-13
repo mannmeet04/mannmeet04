@@ -1,6 +1,8 @@
 # 💫 About Me:
 Computer Science Student @ FH Aachen | Aspiring Software Developer & Cybersecurity Enthusiast | Low-Level Programming (AVR/C)
-
+<div align="center">
+  <img src="https://giphy.com/gifs/ProductDock-it-programming-productdock-xaO6TmgQmKEQ4516sE" alt="Mannmeet's Terminal" width="100%">
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mannmeet-singh-khasria) 
