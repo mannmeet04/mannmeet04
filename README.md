@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer Science Student @ FH Aachen | Aspiring Software Developer & Cybersecurity Enthusiast | Low-Level Programming (AVR/C)
 <div align="center">
-  <img src="https://giphy.com/gifs/ProductDock-it-programming-productdock-xaO6TmgQmKEQ4516sE" alt="Mannmeet's Terminal" width="100%">
+  <img src="https://giphy.com/gifs/ProductDock-it-programming-productdock-xaO6TmgQmKEQ4516sE"  width="15%">
 </div>
 
 ## 🌐 Socials:
